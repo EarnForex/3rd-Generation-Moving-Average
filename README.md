@@ -8,7 +8,7 @@ The indicator displays similarly to traditional moving averages - in the main wi
 
 It can be used for fast/slow MA crossover analysis like any other type of moving average.
 
-![3rd Generation Moving Average - an example chart with fast (red) and slow (blue) moving averages loaded](https://github.com/EarnForex/3rd-Generation-Moving-Average/blob/master/README_Images/3rd-generation-moving-average.png)
+![3rd Generation Moving Average - an example chart with fast (red) and slow (blue) moving averages loaded](https://github.com/EarnForex/3rd-Generation-Moving-Average/blob/main/README_Images/3rd-generation-moving-average.png)
 
 A detailed description of the indicator can be found here:
 https://www.earnforex.com/metatrader-indicators/3rd-Generation-Moving-Average/
